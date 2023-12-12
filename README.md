@@ -1,9 +1,9 @@
 <h1 align="center">Acerca de mí/About me</h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dante-kaled-barron-elizondod-3b1058224/">
+  <a href="https://mx.linkedin.com/in/ingmauriciopherrera">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
