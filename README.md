@@ -11,9 +11,9 @@
 ---
 
 ### 👨🏽‍💻 About Me :
-🇲🇽 Soy Mauricio P. Herrera, actualmente estudio Ingeniería en Sistemas Computacionales en la Universidad Autónoma de La Laguna. Aquí podrás encontrar algunos de mis proyectos escolares y personales.
+🇲🇽 Mi nombre es Mauricio, soy ingeniero en Sistemas Computacionales. Aquí podrás encontrar algunos de mis proyectos escolares y personales.
 
-🇬🇧 My name is Mauricio P. Herrera, I am currently studying Computer Systems Engineering at the Autonomous University of La Laguna. Here you'll find some of my personal and school projects.
+🇬🇧 My name is Mauricio, I'm a Computer Systems Engineer. Here you'll find some of my personal and school projects.
 
 
 ---
